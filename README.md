@@ -1,1 +1,2 @@
-# ee120-assemblycode
+# assemblycode
+SJSU EE120 assignments
